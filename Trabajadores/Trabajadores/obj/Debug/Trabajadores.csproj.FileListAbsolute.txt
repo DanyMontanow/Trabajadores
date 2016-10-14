@@ -1,0 +1,6 @@
+c:\users\soptek\documents\visual studio 2015\Projects\Trabajadores\Trabajadores\bin\Debug\Trabajadores.exe.config
+c:\users\soptek\documents\visual studio 2015\Projects\Trabajadores\Trabajadores\bin\Debug\Trabajadores.exe
+c:\users\soptek\documents\visual studio 2015\Projects\Trabajadores\Trabajadores\bin\Debug\Trabajadores.pdb
+c:\users\soptek\documents\visual studio 2015\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.csprojResolveAssemblyReference.cache
+c:\users\soptek\documents\visual studio 2015\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.exe
+c:\users\soptek\documents\visual studio 2015\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.pdb
